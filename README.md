@@ -10,3 +10,4 @@ csp_spiral_andromeda.ipynb is the modeled spectrum code of andromeda
 e_folding_time_changes.ipynb is the code of different e-folding times for each type of galaxy
 --
 single_stellar_population.ipynb is the code of SSP
+--
