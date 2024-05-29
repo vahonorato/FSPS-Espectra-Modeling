@@ -1,7 +1,7 @@
 # FSPS-Espectra-Modeling
 Recreating galaxy spectra with the FSPS package for Simple Stellar Populations and Composite Stellar Populations
 --
-(You need to have FSPS installed on your laptop, before using)
+(You need to have FSPS installed on your laptop before using)
 --
 - Andromeda.dat is the P.lira et al. (2007) public data in N.E.D. of Andromeda spectrum
   
