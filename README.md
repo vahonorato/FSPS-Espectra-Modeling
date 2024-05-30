@@ -12,3 +12,5 @@ Recreating galaxy spectra with the FSPS package for Simple Stellar Populations a
 - e_folding_time_changes.ipynb is the code of different e-folding times for each type of galaxy
 
 - single_stellar_population.ipynb is the code of SSP
+
+- proyecto_extragalactica_2_fsps.pdf is the article in where we compute galaxies spectra using FSPS
